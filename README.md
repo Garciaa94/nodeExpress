@@ -1,3 +1,10 @@
+## En este pequeño prollecto se realizó una conexion mongo y node express - uso get post en Postman
+
+[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+
+  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+  
+
 # nodeExpress
 Express es una infraestructura de aplicaciones web Node.js mínima y flexible que proporciona un conjunto sólido de características para las aplicaciones web y móviles.
 
